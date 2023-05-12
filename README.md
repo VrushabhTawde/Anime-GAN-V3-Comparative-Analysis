@@ -11,11 +11,10 @@
 
 
 ## Demos 
-### :fire: Video to anime (Hayao Style)   
+### :fire: Video to anime    
 <p>
-<a href="https://youtu.be/EosubeJmAnE"><img src="https://img.shields.io/static/v1?label=YouTube&message=video 1&color=red"/></a>
-<a href="https://youtu.be/5qLUflWb45E"><img src="https://img.shields.io/static/v1?label=YouTube&message=video 2&color=green"/></a>
-<a href="https://www.youtube.com/watch?v=iFjiaPlhVm4"><img src="https://img.shields.io/static/v1?label=YouTube&message=video 3&color=pink"/></a>
+![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/a9c1b774-edd8-44e0-8f41-d9050b9f5135)
+
 </p>
 
   
