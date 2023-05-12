@@ -24,7 +24,7 @@ caption1 | caption2
 
 caption1 | caption2
 :-: | :-:
-<video src='https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/f940f78f-f0b1-4373-bace-51fde78b4ea1' width=180/> | <video src='' width=180/>
+ ![charli2 - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/e99fa6fe-b5b0-4f73-ae80-0109f5e36e7c)| ![charli - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/8a9c3c96-e3a5-442e-b4d4-73419123e802)
 
 
 
