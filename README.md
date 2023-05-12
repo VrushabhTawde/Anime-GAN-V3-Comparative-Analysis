@@ -43,17 +43,15 @@ caption1 | caption2
 ## System Design 
 ###    
 <p>
-
-![WhatsApp Image 2023-04-28 at 11 51 26](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/adac8e5d-0c55-4ea0-a1b5-e8e45742197b)
+![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/cf038812-c640-41be-937a-deb3fc2510b3)
 
 </p>
   
 ____
 
 ## Experimental: Study on Different Colour Contrast Image
+![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/5bab813e-f5e2-4af8-9c70-410950dad142)
 
-![WhatsApp Image 2023-04-26 at 23 41 32](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/6e49eca5-29df-4763-94cb-e3c21b92652d)
-![WhatsApp Image 2023-04-26 at 23 42 01](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/efe1febb-e592-4dbe-b5e0-be605c380f41)
 
 ___ 
 
@@ -65,7 +63,8 @@ ___
 
 ## Experimental: Study on Images of Landscapes
 
-![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/e597bbe4-40cd-424f-8047-e36be4f6c49b)
+![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/ade1758a-f761-44e7-ad42-518ca446a32d)
+
 
 ___ 
 
