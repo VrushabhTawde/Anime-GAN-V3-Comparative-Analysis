@@ -10,10 +10,6 @@
 * Without installing any other dependencies, download this repository and use AnimeGANv3's graphical user interface program (AnimeGANv3.exe) and pre-trained models (onnx.zip) to turn your photos or videos into anime.:blush:   
 
 
-
-
-
-
 ## Demos 
 ### :fire: Original Videos TO Animated    
 
@@ -26,22 +22,7 @@ caption1 | caption2
 :-: | :-:
 ![charli - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/e4736109-5c61-49bf-9452-159014c89f1d)|![charli2 - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/d0203cf1-2a95-42ad-91b8-11cb057cfae9)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+____
 
 ## System Design 
   
@@ -61,12 +42,11 @@ ___
 ## Experimental: Study On Images of Different Human Face
 
 ![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/4c7bc912-6118-435d-8b2c-591a09072fc1)
-
+![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/ade1758a-f761-44e7-ad42-518ca446a32d)
 ___ 
 
 ## Experimental: Study on Images of Landscapes
 
-![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/ade1758a-f761-44e7-ad42-518ca446a32d)
 
 
 ___ 
