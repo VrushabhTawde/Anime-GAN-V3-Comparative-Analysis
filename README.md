@@ -13,10 +13,15 @@
 ## Demos 
 ### :fire: Video to anime    
 <p>
-![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/a9c1b774-edd8-44e0-8f41-d9050b9f5135)
+
 
 </p>
+### :System Design   
+<p>
 
+![WhatsApp Image 2023-04-28 at 11 51 26](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/adac8e5d-0c55-4ea0-a1b5-e8e45742197b)
+
+</p>
   
 ____
 ### :art: Photo to Hayao Style    
