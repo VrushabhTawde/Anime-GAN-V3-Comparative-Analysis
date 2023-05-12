@@ -20,8 +20,7 @@
 
 caption1 | caption2
 :-: | :-:
-<video src='
-https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/6b0332e7-df97-40f2-a6c1-23e8dcd3ac8b' width=180/> | <video src='https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/8d83985e-38a0-46c9-b5da-9ed611aa5be8' width=180/>
+<video src='https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/6b0332e7-df97-40f2-a6c1-23e8dcd3ac8b' width=180/> | <video src='https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/8d83985e-38a0-46c9-b5da-9ed611aa5be8' width=180/>
 
 
 
