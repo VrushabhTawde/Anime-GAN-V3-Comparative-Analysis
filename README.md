@@ -41,11 +41,11 @@ caption1 | caption2
 </p>
 
 ## System Design 
-###    
-<p>
+  
+
 ![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/cf038812-c640-41be-937a-deb3fc2510b3)
 
-</p>
+
   
 ____
 
