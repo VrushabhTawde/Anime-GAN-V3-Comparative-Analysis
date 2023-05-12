@@ -27,11 +27,23 @@
   
 ____
 
-## Experimental Study on Different Colour Contrast Image
+## Experimental: Study on Different Colour Contrast Image
 
 ![WhatsApp Image 2023-04-26 at 23 41 32](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/6e49eca5-29df-4763-94cb-e3c21b92652d)
 ![WhatsApp Image 2023-04-26 at 23 42 01](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/efe1febb-e592-4dbe-b5e0-be605c380f41)
 
+___ 
+
+## Experimental: Study On Images of Different Human Face
+
+![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/4c7bc912-6118-435d-8b2c-591a09072fc1)
+
+___ 
+
+## Experimental: Study on Images of Landscapes
+
+![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/c001bd00-06ad-403b-9da6-293b1ce0f8c1)
+___ 
 
 
 ### :art: Photo to Hayao Style    
@@ -44,14 +56,14 @@ ___
 
 ![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/53bbc004-dc19-449a-bcea-cb81d5be1c5b)
 ![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/97ba55f1-13d3-4363-8f6b-ebf621a2e5a0)
-
+___    
 
 ___    
 ### :art: Face to Disney cartoon style  
    
 ![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/fe8bc607-9217-4cf1-8978-e26fdf62c438)   
 
-      
+ ___        
               
 
 
