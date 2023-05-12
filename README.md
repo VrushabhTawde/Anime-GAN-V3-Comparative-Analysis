@@ -16,7 +16,9 @@
 
 
 </p>
-### :System Design   
+
+## System Design 
+###    
 <p>
 
 ![WhatsApp Image 2023-04-28 at 11 51 26](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/adac8e5d-0c55-4ea0-a1b5-e8e45742197b)
@@ -24,6 +26,13 @@
 </p>
   
 ____
+##: Experiment of Different Colour Contrast Image
+<p>
+![WhatsApp Image 2023-04-26 at 23 41 32](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/6e49eca5-29df-4763-94cb-e3c21b92652d)
+![WhatsApp Image 2023-04-26 at 23 42 01](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/efe1febb-e592-4dbe-b5e0-be605c380f41)
+
+</p>
+
 ### :art: Photo to Hayao Style    
 
 ![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/a255656e-deb0-4e8d-a784-9c53f87aa93f)
