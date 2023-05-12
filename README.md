@@ -71,7 +71,7 @@ ___
 
 ### :art: Photo to Hayao Style    
 
-![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/a255656e-deb0-4e8d-a784-9c53f87aa93f)
+![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/c092fb51-3e83-4626-a6ed-a4a429c3bcd2)
 
 ___
 
@@ -84,7 +84,8 @@ ___
 ___    
 ### :art: Face to Disney cartoon style  
    
-![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/fe8bc607-9217-4cf1-8978-e26fdf62c438)   
+![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/cbbb3eb8-c5e9-4222-82ab-6883f249fcf8)
+
 
  ___        
               
