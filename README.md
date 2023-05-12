@@ -20,11 +20,15 @@
 
 caption1 | caption2
 :-: | :-:
-![iron2 - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/01cc9a2f-f7a1-42f9-ac03-c797529d954c) | ![iron - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/cb9d6924-58b5-4f60-99fb-35e99066883b)
+![iron2 - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/0ec68a82-3245-4051-b90a-190f54891cd6)|![iron - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/fe882b2a-002f-4182-84ff-b2e5f4292541)
 
 caption1 | caption2
 :-: | :-:
-![charli - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/8a9c3c96-e3a5-442e-b4d4-73419123e802) | ![charli2 - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/e99fa6fe-b5b0-4f73-ae80-0109f5e36e7c)
+![charli - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/e4736109-5c61-49bf-9452-159014c89f1d)|
+![charli2 - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/d0203cf1-2a95-42ad-91b8-11cb057cfae9)
+
+
+
 
 
 
