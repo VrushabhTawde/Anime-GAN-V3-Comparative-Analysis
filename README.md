@@ -116,10 +116,7 @@ Vedant Nare
   <img src="https://contrib.rocks/image?repo=sadhvi022/UI-UXtest" />
 </a>
   
-<a href="https://github.com/vedant-nare/New_Horizons2/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=vedant-nare/New_Horizons2" />
-</a>
-
+<img style="height:auto;" alt="Avatar" src="https://avatars.githubusercontent.com/u/62511063?v=4" width="60" height="60" class="avatar avatar-user width-full border color-bg-default">
 
  
     
