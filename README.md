@@ -13,6 +13,23 @@
 ## Demos 
 ### :fire: Video to anime    
 <p>
+  
+
+https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/0b64af0f-a94b-48f1-8f16-15cb3414cb74
+
+
+
+https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/07c7e5e7-9a7b-4fda-b2b8-bc85468d3b34
+
+
+https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/e9c12187-414a-4bf3-b6ee-5fc1d6226c2c
+
+
+
+
+https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/86576f93-b0fe-4635-aec3-db9d799cd718
+
+
 
 
 </p>
