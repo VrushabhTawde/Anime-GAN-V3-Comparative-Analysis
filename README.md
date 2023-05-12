@@ -10,24 +10,18 @@
 * Without installing any other dependencies, download this repository and use AnimeGANv3's graphical user interface program (AnimeGANv3.exe) and pre-trained models (onnx.zip) to turn your photos or videos into anime.:blush:   
 
 
+
+
+
+
 ## Demos 
 ### :fire: Original Videos TO Animated    
 <p>
 
-https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/0b64af0f-a94b-48f1-8f16-15cb3414cb74
-
-
-
-https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/f1e36927-539a-4564-9c5d-416c071586c9
-
-
-  
-
-
-  
-https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/e9c12187-414a-4bf3-b6ee-5fc1d6226c2c
-
-
+caption1 | caption2
+:-: | :-:
+<video src='
+https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/6b0332e7-df97-40f2-a6c1-23e8dcd3ac8b' width=180/> | <video src='https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/8d83985e-38a0-46c9-b5da-9ed611aa5be8' width=180/>
 
 
 
