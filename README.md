@@ -115,8 +115,9 @@ Vedant Nare
 <a href="https://github.com/sadhvi022/UI-UXtest/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sadhvi022/UI-UXtest" />
 </a>
-  
+ <a> 
 <img style="height:auto;" alt="Avatar" src="https://avatars.githubusercontent.com/u/62511063?v=4" width="60" height="60" class="avatar avatar-user width-full border color-bg-default">
+  </a>   
 
  
     
