@@ -20,7 +20,7 @@
 
 caption1 | caption2
 :-: | :-:
-<video src='https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/6b0332e7-df97-40f2-a6c1-23e8dcd3ac8b' width=180/> | <video src='https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/ab19a17f-4a32-4dc0-b768-d26b9138b3cc' width=180/>
+<video src='https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/6b0332e7-df97-40f2-a6c1-23e8dcd3ac8b' width=180/> | ![iron - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/cb9d6924-58b5-4f60-99fb-35e99066883b)
 
 caption1 | caption2
 :-: | :-:
