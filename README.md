@@ -65,7 +65,8 @@ ___
 
 ## Experimental: Study on Images of Landscapes
 
-![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/c001bd00-06ad-403b-9da6-293b1ce0f8c1)
+![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/e597bbe4-40cd-424f-8047-e36be4f6c49b)
+
 ___ 
 
 
@@ -75,13 +76,7 @@ ___
 
 ___
 
-### :art: Photo to Shinkai Style 
-
-
-![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/53bbc004-dc19-449a-bcea-cb81d5be1c5b)
-![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/97ba55f1-13d3-4363-8f6b-ebf621a2e5a0)  
-
-___    
+    
 ### :art: Face to Disney cartoon style  
    
 ![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/cbbb3eb8-c5e9-4222-82ab-6883f249fcf8)
