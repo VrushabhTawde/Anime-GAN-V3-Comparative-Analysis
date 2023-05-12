@@ -77,8 +77,6 @@ ___
 
 ### :art: Photo to Shinkai Style 
 
-![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/53bbc004-dc19-449a-bcea-cb81d5be1c5b)
-![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/97ba55f1-13d3-4363-8f6b-ebf621a2e5a0)
 ___    
 
 ___    
