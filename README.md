@@ -20,11 +20,12 @@
 
 caption1 | caption2
 :-: | :-:
-<video src='https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/6b0332e7-df97-40f2-a6c1-23e8dcd3ac8b' width=180/> | ![iron - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/cb9d6924-58b5-4f60-99fb-35e99066883b)
+![iron2 - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/01cc9a2f-f7a1-42f9-ac03-c797529d954c) | ![iron - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/cb9d6924-58b5-4f60-99fb-35e99066883b)
 
 caption1 | caption2
 :-: | :-:
 <video src='https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/f940f78f-f0b1-4373-bace-51fde78b4ea1' width=180/> | <video src='' width=180/>
+
 
 
 
