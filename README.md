@@ -16,7 +16,7 @@
 
 ## Demos 
 ### :fire: Original Videos TO Animated    
-<p>
+
 
 caption1 | caption2
 :-: | :-:
@@ -41,7 +41,7 @@ caption1 | caption2
 
 
 
-</p>
+
 
 ## System Design 
   
