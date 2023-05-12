@@ -41,11 +41,12 @@ ___
 
 ## Experimental: Study On Images of Different Human Face
 
-![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/4c7bc912-6118-435d-8b2c-591a09072fc1)
 ![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/ade1758a-f761-44e7-ad42-518ca446a32d)
 ___ 
 
 ## Experimental: Study on Images of Landscapes
+![image](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/6bc911e5-3768-4550-b263-5c1775be7d17)
+
 
 
 
