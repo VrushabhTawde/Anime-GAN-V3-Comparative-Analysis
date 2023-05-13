@@ -7,7 +7,7 @@
 
 ## How To Install And Run
 
-* Without installing any other dependencies, download this repository and use AnimeGANv3's graphical user interface program (AnimeGANv3.exe) and pre-trained models (onnx.zip) to turn your photos or videos into anime.:blush:   
+* Without installing any other dependencies, download this repository and use AnimeGANv3's graphical user interface program (AnimeGANv3.exe) and pre-trained models (onnx.zip) to turn your photos or videos into animation.:blush:   
 
 
 ## Demos 
@@ -15,7 +15,7 @@
 
 
 caption1 | caption2
-:-: | :-:
+:-: | :-
 ![iron2 - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/0ec68a82-3245-4051-b90a-190f54891cd6)|![iron - Made with Clipchamp](https://github.com/VrushabhTawde/Anime-GAN-V3-Comparative-Analysis/assets/91945151/fe882b2a-002f-4182-84ff-b2e5f4292541)
 
 caption1 | caption2
